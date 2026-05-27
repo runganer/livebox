@@ -1,0 +1,42 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "bfzy",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "group": "📺 直播",
+      "channels": [
+        {
+          "name": "整挺好直播",
+          "urls": ["http://zth.haogu.xyz/tv.txt"]
+        }
+      ]
+    }
+  ],
+  "parsers": []
+}
