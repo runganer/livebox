@@ -1,0 +1,313 @@
+{
+  "name": "TVBox/影视仓 多仓接口合集（实测可用）",
+  "version": "2026-05-27",
+  "description": "收集自网络各路大神 TVBox 项目（liu673cn、gaotianliuyun、yangxiaoge、2hacc、Newtxin、NewOrin、noimank、hanhan8127、mcp2016 等），已逐一测试可用性，去重整理而成。仅供学习测试使用。",
+  "disclaimer": "所有资源均来自网络，仅供学习测试，请于24小时内删除。如有侵权请联系删除。接口可用性可能随时间变化，建议定期更新。",
+  "tested_on": "2026-05-27",
+  "total_working": 52,
+  "total_tested": 77,
+  "urls": [
+    {
+      "name": "🐉 liu673cn 多仓聚合",
+      "url": "https://liu673cn.github.io/box/m.json",
+      "source": "liu673cn/box",
+      "note": "多仓聚合大管家，加一个地址等于多个源"
+    },
+    {
+      "name": "🏠 高天流云 FongMI(0827)",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "source": "gaotianliuyun/gao",
+      "note": "FongMI影视配置，内容丰富"
+    },
+    {
+      "name": "🏠 高天流云 XYQ",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "source": "gaotianliuyun/gao"
+    },
+    {
+      "name": "🏠 高天流云 JS(drpy)",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "source": "gaotianliuyun/gao",
+      "note": "含drpy线路，内容丰富(51KB)"
+    },
+    {
+      "name": "🏠 高天流云 0826",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "source": "gaotianliuyun/gao"
+    },
+    {
+      "name": "🔗 2hacc MTV",
+      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/json/MTV.json",
+      "source": "2hacc/TVBox"
+    },
+    {
+      "name": "🔗 2hacc 少儿教育",
+      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/json/少儿教育.json",
+      "source": "2hacc/TVBox",
+      "note": "少儿教育资源专线"
+    },
+    {
+      "name": "🌐 yangxiaoge 多仓(CDN加速)",
+      "url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/多仓.json",
+      "source": "yangxiaoge/tvbox_cust",
+      "note": "CDN加速，内含大量优质子源"
+    },
+    {
+      "name": "📚 hanhan8127 hanXC",
+      "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+      "source": "hanhan8127/TVBox"
+    },
+    {
+      "name": "📚 Newtxin 2号线路",
+      "url": "https://raw.githubusercontent.com/Newtxin/tvbox/main/2.json",
+      "source": "Newtxin/tvbox",
+      "note": "内容丰富(51KB)"
+    },
+    {
+      "name": "📚 Newtxin 001号线路",
+      "url": "https://raw.githubusercontent.com/Newtxin/tvbox/main/001.json",
+      "source": "Newtxin/tvbox"
+    },
+    {
+      "name": "📚 Newtxin 002号线路",
+      "url": "https://raw.githubusercontent.com/Newtxin/tvbox/main/002.json",
+      "source": "Newtxin/tvbox"
+    },
+    {
+      "name": "📚 Newtxin 003号线路",
+      "url": "https://raw.githubusercontent.com/Newtxin/tvbox/main/003.json",
+      "source": "Newtxin/tvbox"
+    },
+    {
+      "name": "📺 NewOrin XBB模板1",
+      "url": "https://raw.githubusercontent.com/NewOrin/TVBox/main/sub/XBB模板1.json",
+      "source": "NewOrin/TVBox"
+    },
+    {
+      "name": "📺 NewOrin XBB模板2",
+      "url": "https://raw.githubusercontent.com/NewOrin/TVBox/main/sub/XBB模板2.json",
+      "source": "NewOrin/TVBox"
+    },
+    {
+      "name": "📦 mcp2016 urls(多仓)",
+      "url": "https://raw.githubusercontent.com/mcp2016/TVBox/main/urls.json",
+      "source": "mcp2016/TVBox",
+      "note": "内含饭太硬、鹏九等线路"
+    },
+    {
+      "name": "📦 mcp2016 鹏九",
+      "url": "https://mcp2016.github.io/TVBox/pj.json",
+      "source": "mcp2016/TVBox",
+      "note": "鹏九单仓(21KB)"
+    },
+    {
+      "name": "🚀 noimank 多仓合集",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json",
+      "source": "noimank/tvbox",
+      "note": "影视仓多仓源，内含14条线路"
+    },
+    {
+      "name": "🚀 noimank 健康家用",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+      "source": "noimank/tvbox"
+    },
+    {
+      "name": "🍚 饭太硬备用",
+      "url": "http://fty.xxooo.cf/tv",
+      "source": "饭太硬",
+      "note": "经典老牌源，稳定可用"
+    },
+    {
+      "name": "🍚 饭太硬.net",
+      "url": "http://www.饭太硬.net/tv",
+      "source": "饭太硬"
+    },
+    {
+      "name": "😸 肥猫",
+      "url": "http://肥猫.com",
+      "source": "肥猫",
+      "note": "经典肥猫线路"
+    },
+    {
+      "name": "👦 王二小(主)",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "source": "王二小"
+    },
+    {
+      "name": "👦 王二小(999)",
+      "url": "http://tv.999888987.xyz",
+      "source": "王二小"
+    },
+    {
+      "name": "👦 王二小放牛娃",
+      "url": "http://tvbox.王二小放牛娃.top",
+      "source": "王二小放牛娃"
+    },
+    {
+      "name": "🌸 香雅情 XYQ",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "source": "香雅情"
+    },
+    {
+      "name": "🎯 欧歌4K",
+      "url": "http://tv.nxog.top/m/",
+      "source": "欧歌",
+      "note": "4K资源线路"
+    },
+    {
+      "name": "🎯 欧歌TV",
+      "url": "http://tv.nxog.top/m",
+      "source": "欧歌",
+      "note": "欧歌TV(无斜杠)"
+    },
+    {
+      "name": "🎯 欧歌(xn--)",
+      "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "source": "欧歌"
+    },
+    {
+      "name": "🔍 影探线路",
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "source": "影探"
+    },
+    {
+      "name": "🌊 南风",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "source": "南风"
+    },
+    {
+      "name": "🌫️ 无意线路",
+      "url": "https://www.wya6.cn/tv/yc.json",
+      "source": "无意"
+    },
+    {
+      "name": "📦 小盒子4K",
+      "url": "http://xhztv.top/4k.json",
+      "source": "小盒子",
+      "note": "4K资源"
+    },
+    {
+      "name": "📦 小盒子xhz",
+      "url": "http://xhztv.top/xhz",
+      "source": "小盒子"
+    },
+    {
+      "name": "🐟 摸鱼儿",
+      "url": "http://我不是.摸鱼儿.top",
+      "source": "摸鱼儿",
+      "note": "内容最丰富(75KB)"
+    },
+    {
+      "name": "🎭 科技长青",
+      "url": "https://13413.kstore.space/tv/changqing.json",
+      "source": "科技长青"
+    },
+    {
+      "name": "🎮 玩盒助手",
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "source": "玩盒助手"
+    },
+    {
+      "name": "🎪 潇洒",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "source": "qist/tvbox",
+      "note": "潇洒线路(62KB)"
+    },
+    {
+      "name": "🍊 橘子柚影视",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+      "source": "橘子柚"
+    },
+    {
+      "name": "🧂 盐枭",
+      "url": "https://9xi4o.tk/tvbox.json",
+      "source": "盐枭",
+      "note": "内容丰富(72KB)"
+    },
+    {
+      "name": "🐌 蜗牛科技",
+      "url": "https://tv.蜗牛.top/svip",
+      "source": "蜗牛科技",
+      "note": "超大内容(116KB)"
+    },
+    {
+      "name": "🌅 东曦视界",
+      "url": "https://box.iqinu.com/",
+      "source": "东曦视界"
+    },
+    {
+      "name": "🎨 动漫城",
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "source": "动漫城",
+      "note": "动漫资源专线"
+    },
+    {
+      "name": "🌤️ 天微",
+      "url": "https://play.iptv365.org/天微/api.json",
+      "source": "iptv365"
+    },
+    {
+      "name": "😊 开心软件",
+      "url": "https://play.iptv365.org/天天开心/api.json",
+      "source": "iptv365"
+    },
+    {
+      "name": "🌸 香雅情(play)",
+      "url": "https://play.iptv365.org/香雅情/api.json",
+      "source": "iptv365"
+    },
+    {
+      "name": "🌊 南风(play)",
+      "url": "https://play.iptv365.org/南风/api.json",
+      "source": "iptv365"
+    },
+    {
+      "name": "🆓 白嫖线路",
+      "url": "https://play.iptv365.org/白嫖/api.json",
+      "source": "iptv365"
+    },
+    {
+      "name": "📱 短剧仓库",
+      "url": "https://play.iptv365.org/短剧频道/api.json",
+      "source": "iptv365",
+      "note": "短剧资源专线"
+    },
+    {
+      "name": "👴 老刘备(liu673cn镜像)",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "source": "liu673cn镜像"
+    },
+    {
+      "name": "🤝 挺好分享",
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "source": "挺好分享"
+    },
+    {
+      "name": "⚡ XS线路",
+      "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "source": "XS"
+    },
+    {
+      "name": "🎵 刺刺音乐",
+      "url": "https://d.kstore.dev/download/4684/hgrc.json",
+      "source": "刺刺"
+    },
+    {
+      "name": "📡 采集线路",
+      "url": "http://zhangqun1818.serv00.net/zq/api.json",
+      "source": "采集"
+    },
+    {
+      "name": "📺 整挺好直播",
+      "url": "http://zth.haogu.xyz/tv.txt",
+      "source": "整挺好",
+      "note": "直播源"
+    },
+    {
+      "name": "🔥 小爆脾气直播",
+      "url": "http://xhww.fun/小米/zb.txt",
+      "source": "小爆脾气",
+      "note": "超大直播源(2.6MB)"
+    }
+  ]
+}
